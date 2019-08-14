@@ -1,0 +1,55 @@
+[{
+    "id": null,
+    "name": {
+        "value": "USD",
+        "synonyms": ["US Dollar", "Dollar", "American Dollar"]
+    }
+},{
+    "id": null,
+    "name": {
+        "value": "AUD",
+        "synonyms": ["Australian Dollar"]
+    }
+}, {
+    "id": null,
+    "name": {
+        "value": "CAD",
+        "synonyms": ["Canadian Dollar"]
+    }
+}, {
+    "id": null,
+    "name": {
+        "value": "CHF",
+        "synonyms": ["Swiss franc", "Fr", "CHf", "SFr"]
+    }
+}, {
+    "id": null,
+    "name": {
+        "value": "EUR",
+        "synonyms": ["Euro"]
+    }
+}, {
+    "id": null,
+    "name": {
+        "value": "GBP",
+        "synonyms": ["British Pound", "Pound sterling"]
+    }
+}, {
+    "id": null,
+    "name": {
+        "value": "INR",
+        "synonyms": ["Indian Rupee", "Rupee"]
+    }
+}, {
+    "id": null,
+    "name": {
+        "value": "JPY",
+        "synonyms": ["yen", "Japanese yen"]
+    }
+}, {
+    "id": null,
+    "name": {
+        "value": "NZD",
+        "synonyms": ["New Zealand dollar"]
+    }
+}]
